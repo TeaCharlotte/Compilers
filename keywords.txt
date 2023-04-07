@@ -1,0 +1,7 @@
+static string keyword[100]{
+    "char", "int", "float", "break", "const", "return",
+    "void", "continue", "do", "while", "if", "else", "for"
+ 	// 按照课本p40定的13个关键字
+	// 定义编码表中1-13关键字
+	// 14标识符，15整型，16浮点数，17布尔常数，18字符串
+};
